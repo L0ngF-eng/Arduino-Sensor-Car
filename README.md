@@ -1,6 +1,6 @@
 # Arduino Obstacle-Avoiding Robot
 
-A simple obstacle-avoiding robot built with an Arduino, two 28BYJ-48 stepper motors, and an HC-SR04 ultrasonic sensor. The robot drives forward, detects walls, reverses, and turns in a random direction to navigate around obstacles.
+A simple obstacle-avoiding robot built with an Arduino, two 28BYJ-48 stepper motors, and an HC-SR04 ultrasonic sensor. The robot drives forward, detects walls, reverses 13 cm back, and turns in a random direction to navigate around obstacles.
 
 ---
 
